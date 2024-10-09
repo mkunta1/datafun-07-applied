@@ -1,1 +1,3 @@
-# datafun-07-applied
+### Machine Learning
+
+### Created .gitignore file
